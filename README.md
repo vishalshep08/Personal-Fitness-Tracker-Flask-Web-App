@@ -91,7 +91,7 @@ python app.py
 ![App Screenshot](https://github.com/vishalshep08/Personal-Fitness-Tracker-Flask-Web-App/blob/main/Fitness%20Tracker%20Input-2.png)  
 
 ### 📊 Prediction Output
-![Prediction Output](https://via.placeholder.com/800x400?text=Prediction+Output)  
+![Prediction Output](https://github.com/vishalshep08/Personal-Fitness-Tracker-Flask-Web-App/blob/main/Fitness%20Tracker%20Output.png)  
 
 ---
 
@@ -111,9 +111,19 @@ python app.py
 
 ## 📞 Contact & Support
 🙋‍♂️ For queries or feature requests, feel free to reach out!  
-📧 Email: [your_email@example.com](mailto:your_email@example.com)  
-🔗 GitHub: [yourgithubprofile](https://github.com/yourusername)  
+📧 Email: [your_email@example.com](mailto:vishalrameshshep0809@gmail.com)  
+🔗 GitHub: [yourgithubprofile](https://github.com/vishalshep08)  
 
 ---
 
 🎯 **Star ⭐ this repository if you found it helpful!** 🚀🔥
+### ⭐ Rate This Project  
+If you like this project, give it a star! ⭐⭐⭐⭐⭐  
+![GitHub Repo stars](https://img.shields.io/github/stars/vishalshep08/Personal-Fitness-Tracker-Flask-Web-App?style=social)
+
+
+
+---
+**Number of Visitors**
+![Visitor Count](https://komarev.com/ghpvc/?username=vishalshep08&color=blue)
+
