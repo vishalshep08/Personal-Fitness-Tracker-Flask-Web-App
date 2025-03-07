@@ -117,14 +117,6 @@ python app.py
 ---
 
 🎯 **Star ⭐ this repository if you found it helpful!** 🚀🔥
-### ⭐ Rate This Project  
-If you like this project, give it a star! ⭐⭐⭐⭐⭐  
-![Rating](https://img.shields.io/badge/Rating-★★★★★-yellow)
-
-
-
-
-
 
 ---
 **Number of Visitors**
