@@ -88,7 +88,7 @@ python app.py
 ## 📷 Screenshots
 ### 💻 Main Interface
 ![App Screenshot](https://github.com/vishalshep08/Personal-Fitness-Tracker-Flask-Web-App/blob/main/Fitness%20Tracker%20Input-1.png)  
-![App Screenshot](https://via.placeholder.com/800x400?text=Main+Interface)  
+![App Screenshot](https://github.com/vishalshep08/Personal-Fitness-Tracker-Flask-Web-App/blob/main/Fitness%20Tracker%20Input-2.png)  
 
 ### 📊 Prediction Output
 ![Prediction Output](https://via.placeholder.com/800x400?text=Prediction+Output)  
