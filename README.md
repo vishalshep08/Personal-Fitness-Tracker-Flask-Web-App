@@ -119,7 +119,8 @@ python app.py
 🎯 **Star ⭐ this repository if you found it helpful!** 🚀🔥
 ### ⭐ Rate This Project  
 If you like this project, give it a star! ⭐⭐⭐⭐⭐  
-![GitHub Repo stars](https://img.shields.io/github/stars/vishalshep08/Personal-Fitness-Tracker-Flask-Web-App?style=social)
+[🌟 Click here to rate this project!](https://github.com/vishalshep08/Personal-Fitness-Tracker-Flask-Web-App/issues/1)
+
 
 
 
