@@ -2,8 +2,6 @@
 
 🚀 **Personal Fitness Tracker** is a web-based application that helps users estimate **calories burned** based on various health parameters like duration, heart rate, body temperature, age, gender, and BMI.
 
-![Fitness Tracker UI](https://via.placeholder.com/800x400?text=Personal+Fitness+Tracker+UI)
-
 ---
 
 ## 📜 Features
@@ -89,6 +87,7 @@ python app.py
 
 ## 📷 Screenshots
 ### 💻 Main Interface
+![App Screenshot](https://via.placeholder.com/800x400?text=Main+Interface)  
 ![App Screenshot](https://via.placeholder.com/800x400?text=Main+Interface)  
 
 ### 📊 Prediction Output
